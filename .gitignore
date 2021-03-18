@@ -4,5 +4,10 @@ dia2.json
 dia3.json
 dia4.json
 
+# cypress
+cypress/videos
 
+
+# outros
 node_modules
+package-lock.json
