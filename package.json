@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "cypress:run:mobile":"npx cypress open --config viewportWidth=411,viewportHeight=823", 
     "cypress:run": "npx cypress run", 
-    "cypress:run:dash": "npx cypress run --record --key 6124143d-c82f-4290-962b-a0fbdd9a3593"
+    "cypress:run:dash": "npx cypress run --record"
   },
   "keywords": [],
   "author": "",
